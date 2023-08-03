@@ -1,5 +1,5 @@
 # "Newso" Application with Flutter
-"Newso" is a news mobile appliction that gives you the latest news in the whole world.
+"Newso" is a news mobile application that gives you the latest news in the whole world.
 
 
 https://github.com/MohamedMaged5/Newso/assets/91010437/27d2ff8a-507e-4eaf-8570-bb9d0e89c279
