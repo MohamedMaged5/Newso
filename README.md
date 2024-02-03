@@ -6,7 +6,7 @@ https://github.com/MohamedMaged5/Newso/assets/91010437/27d2ff8a-507e-4eaf-8570-b
 
 
 # Installation
-Click on this link https://github.com/MohamedMaged5/Newso/blob/main/Newso_launcher.apk then you will find a three-dots icon in the top right click on it, press download and install the app on your mobile.
+Click on this link https://github.com/MohamedMaged5/Newso_App/blob/main/Newso_Launcher.apk then you will find a three-dots icon in the top right click on it, press download and install the app on your mobile.
 
 # Development
 I developed it by using Cubit as State Management and API.
