@@ -25,11 +25,12 @@ class Article {
 				source: json['source'] == null
 						? null
 						: Source.fromJson(json['source'] as Map<String, dynamic>),
-				author: json['author'] as String?,
+				author: json['author'] as String? ?? "Unknown",
 				title: json['title'] as String?,
-				description: json['description'] as String?,
+				description: json['description'] as String? ?? "No Description",
 				url: json['url'] as String?,
-				urlToImage: json['urlToImage'] as String?,
+				urlToImage: json['urlToImage'] as String? ?? 
+		"https://img.freepik.com/premium-vector/photo-icon-picture-icon-image-sign-symbol-vector-illustration_64749-4409.jpg?size=626&ext=jpg&ga=GA1.1.637631609.1688846713&semt=ais",
 				publishedAt: json['publishedAt'] as String?,
 				content: json['content'] as String?,
 			);
