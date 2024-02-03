@@ -194,12 +194,11 @@ class _HomeScreenState extends State<HomeScreen> {
                                       state.ourresponse.articles![index]
                                           .description
                                           .toString(),
-                                      // overflow: TextOverflow.ellipsis,
                                       softWrap: true,
                                       overflow: TextOverflow.fade,
                                       style: GoogleFonts.nunito(
                                           color: Colors.white,
-                                          fontSize: 11.sp,
+                                          fontSize: 12.sp,
                                           fontWeight: FontWeight.w400,
                                           shadows: [
                                             Shadow(
